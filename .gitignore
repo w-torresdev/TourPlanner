@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# executáveis linux
+turne
+*.out
+*.exe
+*.o
+
+# pasta build
+build/
